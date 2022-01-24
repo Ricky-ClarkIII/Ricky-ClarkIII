@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Ricky-Clark
-- 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning Machine Learning
+- 👋 Hi, I’m Ricky Clark.
+- 👀 I’m interested in Full Stack Development and Machine Learning!
+- 🌱 I’m currently learning Machine Learning.
 - 📫 How to reach me: Email - ricky.clark.dev@gmail.com
 
 <!---
