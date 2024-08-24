@@ -1,7 +1,7 @@
 [![Ricky's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ricky-ClarkIII)](https://github.com/Ricky-ClarkIII/github-readme-stats)
-- 👋 Hi, I’m Ricky Clark.
-- 👀 I’m interested in Full Stack Development and Machine Learning!
-- 🌱 I’m currently working as a Wordpress Web Developer.
+- 👋 Hi, I’m Ricky Clark III.
+- 👀 I’m interested in Full Stack Development!
+- 🌱 I’m currently working as a Full Stack Software Developer for M.G. Oil Co.
 - 📫 How to reach me: Email - ricky.clark.dev@gmail.com
 
 <!---
