@@ -1,4 +1,4 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ricky-ClarkIII)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ricky-ClarkIII&theme=gotham)](https://git.io/streak-stats)
 - 👋 Hi, I’m Ricky Clark III.
 - 🐈‍⬛🐈 I have two cats named Astra and Crème!
 - 👀 I’m interested in Full Stack Development.
