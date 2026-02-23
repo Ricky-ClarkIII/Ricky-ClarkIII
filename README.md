@@ -1,4 +1,3 @@
-[![Ricky's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ricky-ClarkIII)](https://github.com/anuraghazra/github-readme-stats)
 - 👋 Hi, I’m Ricky Clark III.
 - 🐈‍⬛🐈 I have two cats named Astra and Crème!
 - 👀 I’m interested in Full Stack Development.
